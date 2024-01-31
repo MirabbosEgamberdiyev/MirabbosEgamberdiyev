@@ -14,7 +14,7 @@ I'm a Software Engineer based in Uzbekistan.
 - 🌍 Mostly active within the MDevs Group .
 - 🌱 Learning all about Open Source.
 - 📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
-- ⚡️ Fun fact: I'm a huge fan of Chess.
+- ⚡️ Fun fact: I am a fan of playing table tennis.
 ### Top Skills
 - C#
 - ASP.NET Web API
