@@ -4,7 +4,7 @@
 I'm a Software Engineer based in Uzbekistan.
 
 ### NOW
-- ✨ I am currently writing a program for the hotel management system.
+- ✨ I am currently writing a program for the hotel management system and study center management system.
 
 ### BIO
 - 🏢 Currently studying at Najot Talim.
