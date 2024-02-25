@@ -8,7 +8,7 @@ I'm a Software Engineer based in Uzbekistan.
 
 ### BIO
 - 🏢 Currently studying at Najot Talim.
-- ⚙️ My specialties: .NET, ASP.NET, WPF, PostgreSQL.
+- ⚙️ My specialties: .NET, ASP.NET Core , Winforms, PostgreSQL.
 - 💻 Programming languages:C#, Python, Base JavaScript 
 - ⚔️ Technologies and tools: .NET, Git,  PostgreSQL, SQL Server, MongoDb.
 - 🌍 Mostly active within the MDevs Group .
