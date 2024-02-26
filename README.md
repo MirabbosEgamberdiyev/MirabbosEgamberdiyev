@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/mirabbosmgamberdiyev/mirabbosmgamberdiyev/master/name.svg" />
-</h1>
 
-### Hi there, I'm Sardor 👋
 ### Hi there, I am Mirabbos! 👋
 I'm a Software Engineer based in Uzbekistan.
 
