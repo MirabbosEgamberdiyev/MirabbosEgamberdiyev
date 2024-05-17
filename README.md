@@ -3,20 +3,20 @@
 I'm a Software Engineer based in Uzbekistan.
 
 ### NOW
-- ✨ I am currently writing a program for the hotel management system and study center management system.
+- ✨ I am currently working at Fido biznes.
 
 ### BIO
-- 🏢 Currently studying at Najot Talim.
-- ⚙️ My specialties: .NET, ASP.NET Core , Winforms, PostgreSQL.
-- 💻 Programming languages:C#, Python, Base JavaScript 
+- 🏢 Currently working at Fido biznes.
+- ⚙️ My specialties: .NET, ASP.NET Core, Spring boot , Winforms, PostgreSQL.
+- 💻 Programming languages:C#, Java, Python, Base JavaScript 
 - ⚔️ Technologies and tools: .NET, Git,  PostgreSQL, SQL Server, MongoDb.
-- 🌍 Mostly active within the MDevs Group .
+- 🌍 Mostly active within the Fido biznes .
 - 🌱 Learning all about Open Source.
 - 📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
 - ⚡️ Fun fact: I am a fan of playing table tennis.
 ### Top Skills
-- C#
-- ASP.NET Web API
+- C# and Java
+- ASP.NET Web API and Spring boot
 - PostgreSQL
 - Microsoft SQL Server
 - ASP.NET Core
