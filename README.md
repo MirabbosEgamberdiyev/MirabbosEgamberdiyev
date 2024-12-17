@@ -1,28 +1,25 @@
-
-### Hi there, I am Mirabbos! 👋
+Hi there, I am Mirabbos! 👋
 I'm a Software Engineer based in Uzbekistan.
 
-### NOW
-- ✨ I am currently working at Fido biznes.
-
-### BIO
-- 🏢 Currently working at Fido biznes.
-- ⚙️ My specialties: .NET, ASP.NET Core, Spring boot , Winforms, PostgreSQL.
-- 💻 Programming languages:C#, Java, Python, Base JavaScript 
-- ⚔️ Technologies and tools: .NET, Git,  PostgreSQL, SQL Server, MongoDb.
-- 🌍 Mostly active within the Fido biznes .
-- 🌱 Learning all about Open Source.
-- 📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
-- ⚡️ Fun fact: I am a fan of playing table tennis.
-### Top Skills
-- C# and Java
-- ASP.NET Web API and Spring boot
-- PostgreSQL
-- Microsoft SQL Server
-- ASP.NET Core
+NOW
+✨ Currently working with Java and Spring at Fido Biznes.
+BIO
+🏢 I work at Fido Biznes, focusing on Java and Spring Boot.
+⚙️ Specialties: Java, Spring Boot, .NET, ASP.NET Core, WinForms, PostgreSQL.
+💻 Programming languages: Java, C#, Python, Basic JavaScript.
+⚔️ Technologies and tools: Java, .NET, Git, PostgreSQL, SQL Server, MongoDB.
+🌍 Mostly active within Fido Biznes.
+🌱 Passionate about learning all things Open Source.
+📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
+⚡️ Fun fact: I'm a fan of playing table tennis.
+Top Skills
+Java and Spring Boot
+C# and ASP.NET Core
+PostgreSQL
+Microsoft SQL Server
+ASP.NET Web API
 Feel free to reach out for collaborations or discussions on any projects or technologies!
 <br/>
-
 <p align="center">
   <a href="https://github.com/MirabbosEgamberdiyev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MirabbosEgamberdiyev"/></a>
