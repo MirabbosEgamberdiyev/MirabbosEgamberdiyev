@@ -4,7 +4,7 @@ I'm a Software Engineer based in Uzbekistan.
 NOW
 ✨ Currently working with Java and Spring at Fido Biznes.
 BIO
-🏢 I work at Fido Biznes, focusing on Java and Spring Boot.
+🏢 Working at Fido Biznes, focusing on Java and Spring Boot.
 ⚙️ Specialties: Java, Spring Boot, .NET, ASP.NET Core, WinForms, PostgreSQL.
 💻 Programming languages: Java, C#, Python, Basic JavaScript.
 ⚔️ Technologies and tools: Java, .NET, Git, PostgreSQL, SQL Server, MongoDB.
