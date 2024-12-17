@@ -10,7 +10,7 @@ BIO
 ⚔️ Technologies and tools: Java, .NET, Git, PostgreSQL, SQL Server, MongoDB.
 🌍 Mostly active within Fido Biznes.
 🌱 Passionate about learning all things Open Source.
-📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
+- 📫 Connect with me: [Telegram](https://t.me/Mirabbos_Egamberdiyev), [LinkedIn](https://www.linkedin.com/in/mirabbos-egamberdiyev-3901862a2/).
 ⚡️ Fun fact: I'm a fan of playing table tennis.
 Top Skills
 Java and Spring Boot
